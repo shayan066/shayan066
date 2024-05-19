@@ -1,11 +1,11 @@
-[![MasterHead]()]
+[![MasterHead](github-header-image.gif)](https://shayan066.io)
 <h1 align="center">Hi 👋, I'm Shayan Azeem</h1>
 <h3 align="center">A passionate full stack developer from India.</h3>
-<img align="right" alt="Coding" width="" src="./documents/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shayan066&label=Profile%20views&color=0e75b6&style=flat" alt="shayan066" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shayan066" alt="shayan066" /></a> </p>
+- 🌱 I'm a software developer specialize in **Full Stack Development.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shayan066](https://github.com/shayan066)
 
