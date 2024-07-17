@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shayanansari598@gmail.com**
 
-- ⚡ Fun fact **A full stack developer possesses expertise in both front-end and back-end technologies, enabling them to build and manage entire applications independently. They streamline project workflows, reduce development costs, enhance communication across teams, and offer versatile problem-solving skills, making them invaluable assets to tech projects and startups.**
+- ⚡ Fun fact **Full stack developers create magic by blending front-end visuals and back-end logic, mastering the entire web development spectrum!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
