@@ -1,6 +1,6 @@
 [![MasterHead](github-header-image.gif)](https://shayan066.io)
 <h1 align="center">Hi 👋, I'm Shayan Azeem</h1>
-<h3 align="center">A passionate full stack developer from India.</h3>
+<h3 align="center">A passionate full stack Java developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shayan066&label=Profile%20views&color=0e75b6&style=flat" alt="shayan066" /> </p>
@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shayan066](https://github.com/shayan066)
 
-- 💬 Ask me about **Java, Data Structure, Algorithm, Javascript, React.js, Tailwind CSS, Node.js , Express , Angular, MongoDB.**
+- 💬 Ask me about **Java, Data Structure, Algorithm, Javascript, Spring Boot, Spring JPA, Spring Security, Hibernate, Spring AI, AWS, Docker, React.js, Tailwind CSS, Node.js, Express, MongoDB.**
 
 - 📫 How to reach me **shayanansari598@gmail.com**
 
-- ⚡ Fun fact **Full stack developers create magic by blending front-end visuals and back-end logic, mastering the entire web development spectrum!**
+- ⚡ Fun fact **Full stack Java developers create magic by blending front-end visuals and back-end logic, mastering the entire web development spectrum!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
